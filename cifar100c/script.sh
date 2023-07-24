@@ -1,0 +1,1 @@
+tar xvf CIFAR-100-C.tar
